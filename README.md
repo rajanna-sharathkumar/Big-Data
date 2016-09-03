@@ -1,3 +1,3 @@
 # Big-Data
 
-Big Data Management and Analytics (CS6350) - Asssignments
+Big Data Management and Analytics (CS6350)
